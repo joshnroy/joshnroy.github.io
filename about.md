@@ -27,13 +27,17 @@ I am interested in anything having to do with Artificial Intelligence, Robots, o
 <!-- * **Skill 5** - `Skill` -->
 <!-- * **Skill 6** - `Skill` / `Skill` --> 
     
-## Conference Publications
+## Publications
 
-* [**PiDrone: An Autonomous Educational Drone using Raspberry Pi and Python**](https://ieeexplore.ieee.org/abstract/document/8593943) 
+- [**Learning Feature Extraction for Transfer from Simulation to Reality**](https://cs.brown.edu/research/pubs/theses/ugrad/2019/roy.josh.pdf) 
+   
+   First Author on Undergraduate Honors thesis at [Brown University](brown.edu)
+
+- [**PiDrone: An Autonomous Educational Drone using Raspberry Pi and Python**](https://ieeexplore.ieee.org/abstract/document/8593943) 
    
    IROS 2018, Madrid Spain, October 1-5 2018, First Author on [Paper](http://h2r.cs.brown.edu/wp-content/uploads/pidrone18.pdf), Poster
 
-* **PiDrone: Design of a Low Cost Autonomous Drone**
+- **PiDrone: Design of a Low Cost Autonomous Drone**
    
    CARRE International Research Symposium 2017, Toronto Canada, June 21-22 2017, First Author on Poster
 
