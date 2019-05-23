@@ -4,52 +4,39 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+I am interested in anything having to do with Artificial Intelligence, Robots, or Computer Science at large. 
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+- MsC in Computer Science from [Brown University](brown.edu) (currently pursuing)
+- ScB in Computer Science from [Brown University](brown.edu)
 
 ## Roles
 
-Founder, ABC Organisation
+- **Deep Learning Intern** at [NVIDIA](nvidia.com) - Summer 2018
+- **Research Assistant** at [Brown Robotics](robotics.cs.brown.edu), [Brown University Department of Computer Science](cs.brown.edu) - Summer 2016 through Present
+- **Systems Programmer, Operator, Consultant (SPOC)** at [Brown University Department of Computer Science](cs.brown.edu) - Fall 2017 through Spring 2019
+- **Head Teaching Assistant** and **Teaching Assistant** at [Brown CS](cs.brown.edu) - Fall 2016 through Present
 
-## Skills
+<!-- ## Skills -->
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+<!-- * **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill` -->
+<!-- * **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` -->
+<!-- * **Skill 3** - `Skill` / `Skill` / `Skill` -->
+<!-- * **Skill 4** - `Skill` / `Skill` / `Skill` --> 
+<!-- * **Skill 5** - `Skill` -->
+<!-- * **Skill 6** - `Skill` / `Skill` --> 
     
-    
-## Achievements
+## Conference Publications
 
-
-* [**This is my first achievement**](#) 
+* [**PiDrone: An Autonomous Educational Drone using Raspberry Pi and Python**](https://ieeexplore.ieee.org/abstract/document/8593943) 
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+   IROS 2018, Madrid Spain, October 1-5 2018, First Author on [Paper](http://h2r.cs.brown.edu/wp-content/uploads/pidrone18.pdf), Poster
 
-***
-
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
+* **PiDrone: Design of a Low Cost Autonomous Drone**
+   
+   CARRE International Research Symposium 2017, Toronto Canada, June 21-22 2017, First Author on Poster
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[josh_roy@brown.edu](josh_roy@brown.edu)
