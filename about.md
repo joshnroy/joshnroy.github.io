@@ -8,15 +8,15 @@ I am interested in anything having to do with Artificial Intelligence, Robots, o
 
 ## Education
 
-- MsC in Computer Science from [Brown University](brown.edu) (currently pursuing)
-- ScB in Computer Science from [Brown University](brown.edu)
+- **Master of Science** in Computer Science from [Brown University](http://brown.edu) (currently pursuing)
+- **Bachelor of Science** in Computer Science from [Brown University](http://brown.edu)
 
 ## Roles
 
-- **Deep Learning Intern** at [NVIDIA](nvidia.com) - Summer 2018
-- **Research Assistant** at [Brown Robotics](robotics.cs.brown.edu), [Brown University Department of Computer Science](cs.brown.edu) - Summer 2016 through Present
-- **Systems Programmer, Operator, Consultant (SPOC)** at [Brown University Department of Computer Science](cs.brown.edu) - Fall 2017 through Spring 2019
-- **Head Teaching Assistant** and **Teaching Assistant** at [Brown CS](cs.brown.edu) - Fall 2016 through Present
+- **Deep Learning Intern** at [NVIDIA](http://nvidia.com) - Summer 2018
+- **Research Assistant** at [Brown Robotics](http://robotics.cs.brown.edu), [Brown University Department of Computer Science](http://cs.brown.edu) - Summer 2016 through Present
+- **Systems Programmer, Operator, Consultant (SPOC)** at [Brown University Department of Computer Science](http://cs.brown.edu) - Fall 2017 through Spring 2019
+- **Head Teaching Assistant** and **Teaching Assistant** at [Brown CS](http://cs.brown.edu) - Fall 2016 through Present
 
 <!-- ## Skills -->
 
@@ -39,4 +39,4 @@ I am interested in anything having to do with Artificial Intelligence, Robots, o
 
 ## Contact me
 
-[josh_roy@brown.edu](josh_roy@brown.edu)
+[josh_roy@brown.edu](mailto:josh_roy@brown.edu)
