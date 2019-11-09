@@ -27,8 +27,8 @@
                <p class="site-description">{{ site.description }}</p>
              </div>
              <nav>
-               <a href="{{ site.baseurl }}/">Blog</a>
-               <a href="{{ site.baseurl }}/about">About</a>
+               {% comment %} <a href="{{ site.baseurl }}/">Blog</a> {% endcomment %}
+               {% comment %} <a href="{{ site.baseurl }}/about">About</a> {% endcomment %}
                {% comment %} <a href="{{ site.baseurl }}/projects">Projects</a> {% endcomment %}
              </nav>
            </header>
@@ -55,10 +55,8 @@
         {% comment %}         </li> {% endcomment %}
         {% comment %}     </ul> {% endcomment %}
         {% comment %} </div> {% endcomment %}
-             
-             <div class="space-medium"></div>
-            
-        </div>
+        {% comment %} <div class="space-medium"></div> {% endcomment %}
+        {% comment %} </div> {% endcomment %}
     </div>
 
     <div id="main" role="main" class="container">

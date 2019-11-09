@@ -2,27 +2,11 @@
 layout: page
 ---
 
-My goal is to create robust, helpful, and trustworthy Artificial Intelligence (AI) that can aid and collaborate with humans. My interests include **Reinforcement Learning (RL)**, **State Representation**, and **Uncertainty Quantification**. Through these methods, I believe that we can create AI agents that are able to represent and reason about the world like humans, enabling them to make safe and intelligent decisions. My application areas of interest include **Robotics** and **Healthcare**.
+## About Me
 
-## Education
+I am a Master's student in Computer Science at Brown University, working with [George Konidaris](https://cs.brown.edu/people/gdk/), [Stefanie Tellex](https://cs.brown.edu/people/stellex/), and [James Tompkin](http://jamestompkin.com/), graduating in May 2020. Previously, I was an undergraduate student at Brown.
 
-**Master of Science** in Computer Science from [Brown University](http://brown.edu), 2020
-
-**Bachelor of Science** in Computer Science from [Brown University](http://brown.edu), 2019
-
-## Roles
-
-**Data Scientist** at Brown Venture Capital Inclusion Lab - Fall 2019 through Present
-
-**Software Engineering Intern** at [Cognex](http://cognex.com) - Summer 2019
-
-**Deep Learning Intern** at [NVIDIA](http://nvidia.com) - Summer 2018
-
-**Research Assistant** at [Brown Robotics](http://robotics.cs.brown.edu), [Brown University Department of Computer Science](http://cs.brown.edu) - Summer 2016 through Present
-
-**Systems Programmer, Operator, Consultant (SPOC)** at [Brown University Department of Computer Science](http://cs.brown.edu) - Fall 2017 through Spring 2019
-
-**Head Teaching Assistant** and **Teaching Assistant** at [Brown CS](http://cs.brown.edu) - Fall 2016 through Present
+My goal is to create robust, helpful, and trustworthy Artificial Intelligence (AI) that can aid and collaborate with humans. My interests include **Reinforcement Learning (RL)**, **State Representation**, and **Uncertainty Quantification**, with applications in **Robotics** and **Healthcare**.
 
 ## Publications
 
@@ -42,6 +26,20 @@ My goal is to create robust, helpful, and trustworthy Artificial Intelligence (A
 <br>
    CARRE International Research Symposium 2017, Toronto Canada, June 21-22 2017, First Author on Poster
 
+## Roles
+
+**Data Scientist** at Brown Venture Capital Inclusion Lab - Fall 2019 through Present
+
+**Software Engineering Intern** at [Cognex](http://cognex.com) - Summer 2019
+
+**Deep Learning Intern** at [NVIDIA](http://nvidia.com) - Summer 2018
+
+**Research Assistant** at [Brown Robotics](http://robotics.cs.brown.edu), [Brown University Department of Computer Science](http://cs.brown.edu) - Summer 2016 through Present
+
+**Systems Programmer, Operator, Consultant (SPOC)** at [Brown University Department of Computer Science](http://cs.brown.edu) - Fall 2017 through Spring 2019
+
+**Head Teaching Assistant** and **Teaching Assistant** at [Brown CS](http://cs.brown.edu) - Fall 2016 through Present
+
 ## Community Service
 
 **Reviewer** for [International Conference on Robotics and Automation (ICRA) 2020](https://icra2020.org/)
@@ -51,6 +49,7 @@ My goal is to create robust, helpful, and trustworthy Artificial Intelligence (A
 **Reviewer** for [IROS 2019](https://www.iros2019.org/)
 
 **Reviewer** for [IROS 2018](https://www.iros2018.org/)
+
 
 ## Contact me
 
