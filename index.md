@@ -2,8 +2,6 @@
 layout: page
 ---
 
-## About Me
-
 I am a Master's student in Computer Science at Brown University, working with [George Konidaris](https://cs.brown.edu/people/gdk/), [Stefanie Tellex](https://cs.brown.edu/people/stellex/), and [James Tompkin](http://jamestompkin.com/), graduating in May 2020. Previously, I was an undergraduate student at Brown.
 
 My goal is to create robust, helpful, and trustworthy Artificial Intelligence (AI) that can aid and collaborate with humans. My interests include **Reinforcement Learning (RL)**, **State Representation**, and **Uncertainty Quantification**, with applications in **Robotics** and **Healthcare**.
