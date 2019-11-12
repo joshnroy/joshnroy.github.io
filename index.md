@@ -23,8 +23,20 @@ My goal is to create robust, helpful, and trustworthy Artificial Intelligence (A
 **PiDrone: Design of a Low Cost Autonomous Drone**
 <br>
    CARRE International Research Symposium 2017, Toronto Canada, June 21-22 2017, First Author on Poster
+   
+## Awards and Honors
 
-## Roles
+**Senior Prize in Computer Science**, Brown University
+
+**Michael Black TAship Award**, Brown University
+
+**Elected to [Sigma Xi Honors Society](https://www.sigmaxi.org/)**
+
+**Academic Honors in Computer Science**, Brown University
+
+**Robocup Best Paper Finalist**, IROS 2019
+
+## Research and Industry Roles
 
 **Data Scientist** at Brown Venture Capital Inclusion Lab - Fall 2019 through Present
 
