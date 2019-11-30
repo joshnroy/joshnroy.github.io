@@ -1,5 +1,6 @@
 ---
 layout: page
+published: true
 ---
 
 I am a Master's student in Computer Science at Brown University, working with [George Konidaris](https://cs.brown.edu/people/gdk/), [Stefanie Tellex](https://cs.brown.edu/people/stellex/), and [James Tompkin](http://jamestompkin.com/), graduating in May 2020. Previously, I was an undergraduate student at Brown.
@@ -26,13 +27,13 @@ My goal is to create robust, helpful, and trustworthy Artificial Intelligence (A
    
 ## Awards and Honors
 
-**Senior Prize in Computer Science**, Brown University
+**Senior Prize in Computer Science**, Brown University 2019
 
-**Michael Black TAship Award**, Brown University
+**Michael Black TAship Award**, Brown University 2019
 
-**Elected to [Sigma Xi Honors Society](https://www.sigmaxi.org/)**
+**Elected to [Sigma Xi Honors Society](https://www.sigmaxi.org/)** 2019
 
-**Academic Honors in Computer Science**, Brown University
+**Academic Honors in Computer Science**, Brown University 2019
 
 **Robocup Best Paper Finalist**, IROS 2019
 
