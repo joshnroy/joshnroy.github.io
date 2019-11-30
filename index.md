@@ -51,7 +51,7 @@ My goal is to create robust, helpful, and trustworthy Artificial Intelligence (A
 
 **Head Teaching Assistant** and **Teaching Assistant** at [Brown CS](http://cs.brown.edu) - Fall 2016 through Present
 
-## Community Service
+## Service
 
 **Reviewer** for [International Conference on Robotics and Automation (ICRA) 2020](https://icra2020.org/)
 
