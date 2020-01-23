@@ -11,7 +11,7 @@ My goal is to create robust, helpful, and trustworthy Artificial Intelligence (A
 
 [**Learning Feature Extraction for Transfer from Simulation to Reality**](https://cs.brown.edu/research/pubs/theses/ugrad/2019/roy.josh.pdf) 
 <br>
-   First Author on Undergraduate Honors Thesis at [Brown University](brown.edu)
+   First Author on Undergraduate Honors Thesis at [Brown University](https://brown.edu)
 
 [**Advanced Autonomy on a Low-Cost Educational Platform**](https://arxiv.org/abs/1910.03516) 
 <br>
@@ -25,6 +25,21 @@ My goal is to create robust, helpful, and trustworthy Artificial Intelligence (A
 <br>
    CARRE International Research Symposium 2017, Toronto Canada, June 21-22 2017, First Author on Poster
    
+
+## Ongoing Projects
+
+**Generalization in Reinforcement Learning using Adversarial Feature Selection**
+<br>
+  Research Project at [Brown University](https://brown.edu) using auxillary adversarial loss terms to encourage a RL agent to learn features sufficient to transfer between visual domains
+
+**Learning Task-Specific State Representations**
+<br>
+  Research Project at [Harvard University](https://harvard.edu) and [Brown University](https://brown.edu) using Variational Autoencoders (VAEs) and forward modeling to learn efficient state representations
+
+**Mesh Generation using Message Passing Neural Networks**
+<br>
+  Research Project at [Brown University](https://brown.edu) using Generative Adversarial Networks (GANs) and Message Passing Neural Networks (MPNNs) to generate 3D meshes
+
 ## Awards and Honors
 
 **Senior Prize in Computer Science**, Brown University 2019
