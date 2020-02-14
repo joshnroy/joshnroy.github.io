@@ -66,7 +66,13 @@ My goal is to create robust, helpful, and trustworthy Artificial Intelligence (A
 
 **Head Teaching Assistant** and **Teaching Assistant** at [Brown CS](http://cs.brown.edu) - Fall 2016 through Present
 
+## Invited Talks
+
+**Speaker** at Nerd Nite Providence 2020, Brown University Love Data Week
+
 ## Service
+
+**Reviewer** for [Neurips Reproducibility Challenge 2019](https://reproducibility-challenge.github.io/neurips2019/)
 
 **Reviewer** for [International Conference on Robotics and Automation (ICRA) 2020](https://icra2020.org/)
 
