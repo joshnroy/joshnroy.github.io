@@ -42,6 +42,8 @@ My goal is to create robust, helpful, and trustworthy Artificial Intelligence (A
 
 ## Awards and Honors
 
+**NSF Graduate Research Fellowships Program (GRFP) Honorable Mention**, National Science Foundation 2020
+
 **Senior Prize in Computer Science**, Brown University 2019
 
 **Michael Black TAship Award**, Brown University 2019
