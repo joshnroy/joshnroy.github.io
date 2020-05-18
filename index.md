@@ -56,21 +56,23 @@ My goal is to create robust, helpful, and trustworthy Artificial Intelligence (A
 
 ## Research and Industry Roles
 
-**Data Scientist** at Brown Venture Capital Inclusion Lab - Fall 2019 through Present
+**Data Scientist** at Brown Venture Capital Inclusion Lab - Fall 2019 through Spring 2020
 
 **Software Engineering Intern** at [Cognex](http://cognex.com) - Summer 2019
 
 **Deep Learning Intern** at [NVIDIA](http://nvidia.com) - Summer 2018
 
-**Research Assistant** at [Brown Robotics](http://robotics.cs.brown.edu), [Brown University Department of Computer Science](http://cs.brown.edu) - Summer 2016 through Present
+**Research Assistant** at [Brown Robotics](http://robotics.cs.brown.edu), [Brown University Department of Computer Science](http://cs.brown.edu) - Summer 2016 through Spring 2020
 
 **Systems Programmer, Operator, Consultant (SPOC)** at [Brown University Department of Computer Science](http://cs.brown.edu) - Fall 2017 through Spring 2019
 
-**Head Teaching Assistant** and **Teaching Assistant** at [Brown CS](http://cs.brown.edu) - Fall 2016 through Present
+**Head Teaching Assistant** and **Teaching Assistant** at [Brown CS](http://cs.brown.edu) - Fall 2016 through Spring 2020
 
 ## Invited Talks
 
 **Speaker** at Nerd Nite Providence 2020, Brown University Love Data Week
+
+**Semi-Finalist** at Research Matters 2020, Brown University Graduate School. (Competition/Event cancelled due to COVID-19)
 
 ## Service
 
@@ -87,4 +89,4 @@ My goal is to create robust, helpful, and trustworthy Artificial Intelligence (A
 
 ## Contact me
 
-[josh_roy@brown.edu](mailto:josh_roy@brown.edu)
+[joshnroy@gmail.com](mailto:joshnroy@gmail.com)
