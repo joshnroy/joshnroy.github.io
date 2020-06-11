@@ -9,6 +9,11 @@ My goal is to create robust, helpful, and trustworthy Artificial Intelligence (A
 
 ## Publications
 
+
+[**Visual Transfer for Reinforcement Learning via Wasserstein Domain Confusion**](https://arxiv.org/pdf/2006.03465.pdf) 
+<br>
+   ArXiv Preprint 2020, First Author on Paper
+
 [**Learning Feature Extraction for Transfer from Simulation to Reality**](https://cs.brown.edu/research/pubs/theses/ugrad/2019/roy.josh.pdf) 
 <br>
    First Author on Undergraduate Honors Thesis at [Brown University](https://brown.edu)
