@@ -3,16 +3,18 @@ layout: page
 published: true
 ---
 
-I am a Master's student in Computer Science at Brown University, working with [George Konidaris](https://cs.brown.edu/people/gdk/), [Stefanie Tellex](https://cs.brown.edu/people/stellex/), and [James Tompkin](http://jamestompkin.com/), graduating in May 2020. Previously, I was an undergraduate student at Brown.
+I am a Software Engineer at [Cognex](https://www.cognex.com/), working on deep learning/computer vision applications in factory automation.
 
-My goal is to create robust, helpful, and trustworthy Artificial Intelligence (AI) that can aid and collaborate with humans. My interests include **Reinforcement Learning (RL)**, **State Representation**, and **Uncertainty Quantification**, with applications in **Robotics** and **Healthcare**.
+I just graduated my Master's in Computer Science at Brown University, working with [George Konidaris](https://cs.brown.edu/people/gdk/), [Stefanie Tellex](https://cs.brown.edu/people/stellex/), and [James Tompkin](http://jamestompkin.com/), in May 2020. Previously, I was an undergraduate student at Brown.
+
+My goal is to create robust, general, and embodied Artificial Intelligence (AI). My interests include **Reinforcement Learning (RL)**, **Learning Representations & Priors**, and **Uncertainty Quantification**, with applications in **Robotics** and other fields.
 
 ## Publications
 
 
 [**Visual Transfer for Reinforcement Learning via Wasserstein Domain Confusion**](https://arxiv.org/pdf/2006.03465.pdf) 
 <br>
-   ArXiv Preprint 2020, First Author on Paper
+   AAAI 2021, First Author on Paper
 
 [**Learning Feature Extraction for Transfer from Simulation to Reality**](https://cs.brown.edu/research/pubs/theses/ugrad/2019/roy.josh.pdf) 
 <br>
@@ -31,7 +33,7 @@ My goal is to create robust, helpful, and trustworthy Artificial Intelligence (A
    CARRE International Research Symposium 2017, Toronto Canada, June 21-22 2017, First Author on Poster
    
 
-## Ongoing Projects
+## Selected Projects
 
 **Generalization in Reinforcement Learning using Adversarial Feature Selection**
 <br>
@@ -61,6 +63,8 @@ My goal is to create robust, helpful, and trustworthy Artificial Intelligence (A
 
 ## Research and Industry Roles
 
+**Software Engineer** at [Cognex](http://cognex.com) - Summer 2020 through current
+
 **Data Scientist** at Brown Venture Capital Inclusion Lab - Fall 2019 through Spring 2020
 
 **Software Engineering Intern** at [Cognex](http://cognex.com) - Summer 2019
@@ -80,6 +84,10 @@ My goal is to create robust, helpful, and trustworthy Artificial Intelligence (A
 **Semi-Finalist** at Research Matters 2020, Brown University Graduate School. (Competition/Event cancelled due to COVID-19)
 
 ## Service
+
+**Reviewer & Volunteer** for [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)
+
+**Reviewer** for [Challenges of Real World Reinforcement Learning 2020](https://sites.google.com/view/RL4RealLife)
 
 **Reviewer** for [Neurips Reproducibility Challenge 2019](https://reproducibility-challenge.github.io/neurips2019/)
 
