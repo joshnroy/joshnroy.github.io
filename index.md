@@ -56,21 +56,23 @@ My goal is to create robust, general, and embodied Artificial Intelligence (AI).
 
 **Robocup Best Paper Finalist**, IROS 2019
 
-## Research and Industry Roles
+## Research and Teaching Roles
 
-**Software Engineer** at [Cognex](http://cognex.com) - Summer 2020 through current
+**Research Assistant** at [Brown Robotics](http://robotics.cs.brown.edu), [Brown University Department of Computer Science](http://cs.brown.edu) - Summer 2016 through Spring 2020
 
-**Data Scientist** at Brown Venture Capital Inclusion Lab - Fall 2019 through Spring 2020
+**Graduate Data Scientist** at Brown Venture Capital Inclusion Lab - Fall 2019 through Spring 2020
+
+**Head Teaching Assistant** and **Teaching Assistant** at [Brown CS](http://cs.brown.edu) - Fall 2016 through Spring 2020
+
+## Industry Roles
+
+**Associate Software Engineer** at [Cognex](http://cognex.com) - Summer 2020 through current
 
 **Software Engineering Intern** at [Cognex](http://cognex.com) - Summer 2019
 
 **Deep Learning Intern** at [NVIDIA](http://nvidia.com) - Summer 2018
 
-**Research Assistant** at [Brown Robotics](http://robotics.cs.brown.edu), [Brown University Department of Computer Science](http://cs.brown.edu) - Summer 2016 through Spring 2020
-
 **Systems Programmer, Operator, Consultant (SPOC)** at [Brown University Department of Computer Science](http://cs.brown.edu) - Fall 2017 through Spring 2019
-
-**Head Teaching Assistant** and **Teaching Assistant** at [Brown CS](http://cs.brown.edu) - Fall 2016 through Spring 2020
 
 ## Invited Talks
 
