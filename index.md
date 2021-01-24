@@ -7,7 +7,7 @@ I am a Software Engineer at [Cognex](https://www.cognex.com/), working on deep l
 
 I just graduated my Master's in Computer Science at Brown University, working with [George Konidaris](https://cs.brown.edu/people/gdk/), [Stefanie Tellex](https://cs.brown.edu/people/stellex/), and [James Tompkin](http://jamestompkin.com/), in May 2020. Previously, I was an undergraduate student at Brown.
 
-My goal is to create robust, general, and embodied Artificial Intelligence (AI). My interests include **Reinforcement Learning (RL)**, **Learning Representations & Priors**, and **Uncertainty Quantification**, with applications in **Robotics** and other fields.
+My goal is to create robust, general, and embodied Artificial Intelligence (AI). My interests include **Reinforcement Learning (RL)**, **Learning Representations & Priors**, and **Uncertainty Quantification**, with applications in **Robotics**, **Game Playing**, and other autonomous agents.
 
 ## Publications
 
@@ -33,19 +33,14 @@ My goal is to create robust, general, and embodied Artificial Intelligence (AI).
    CARRE International Research Symposium 2017, Toronto Canada, June 21-22 2017, First Author on Poster
    
 
-## Selected Projects
+## Current Projects
 
-**Generalization in Reinforcement Learning using Adversarial Feature Selection**
+**Generalization in Reinforcement Learning using Metric Learning and Uncertainty Quantification**
 <br>
-  Research Project at [Brown University](https://brown.edu) using auxillary adversarial loss terms to encourage a RL agent to learn features sufficient to transfer between visual domains
-
-**Learning Task-Specific State Representations**
+  Current Deep Reinforcement Learning agents overfit to training levels and cannot solve unseen levels of the same task. We aim to learn state abstractions that overcome the generalization gap by learning latent-space metrics and quantifying agent uncertainty. Collaboration with researcher at McGill.
+**Learning Representations from Naturalistic Object Transformations in Video**
 <br>
-  Research Project at [Harvard University](https://harvard.edu) and [Brown University](https://brown.edu) using Variational Autoencoders (VAEs) and forward modeling to learn efficient state representations
-
-**Mesh Generation using Message Passing Neural Networks**
-<br>
-  Research Project at [Brown University](https://brown.edu) using Generative Adversarial Networks (GANs) and Message Passing Neural Networks (MPNNs) to generate 3D meshes
+  Contrastive algorithms have been shown to improve generalization and unsupervised learning by learning invariances to specific image transformations. We apply contrastive learning using sequential (rather than i.i.d.) video frames and learn invariances to real-world transformations, resulting in general object representations. Collaboration with researcher at MIT & UC Berkeley.
 
 ## Awards and Honors
 
