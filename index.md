@@ -7,7 +7,7 @@ I am a Software Engineer at [Cognex](https://www.cognex.com/), working on deep l
 
 I just graduated my Master's in Computer Science at Brown University, working with [George Konidaris](https://cs.brown.edu/people/gdk/), [Stefanie Tellex](https://cs.brown.edu/people/stellex/), and [James Tompkin](http://jamestompkin.com/), in May 2020. Previously, I was an undergraduate student at Brown.
 
-My goal is to create robust, general, and embodied Artificial Intelligence (AI). My interests include **Reinforcement Learning (RL)**, **Learning Representations & Priors**, and **Uncertainty Quantification**, with applications to **Robots**, and other autonomous agents.
+My goal is to create robust, general, and embodied Artificial Intelligence (AI). My interests include **Reinforcement Learning (RL)**, **Learning Representations & Priors**, and **Exploration/Intrinsic Motivation**, with applications to **Robots**, **Games**, and other autonomous agents.
 
 ## Publications
 
