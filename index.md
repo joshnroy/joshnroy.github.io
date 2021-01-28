@@ -41,7 +41,6 @@ My goal is to create robust, general, and embodied Artificial Intelligence (AI).
 **Learning Representations from Naturalistic Object Transformations in Video**
 <br>
   Contrastive algorithms have been shown to improve generalization and unsupervised learning by learning invariances to specific image transformations. We apply contrastive learning using sequential (rather than i.i.d.) video frames and learn invariances to real-world transformations, resulting in general object representations. Collaboration with researcher at MIT & UC Berkeley.
-  
 **Multi-Recursion Neural RSA**
 <br>
   The Rational Speech Acts (RSA) posit that humans act as rational probabilistic speakers and listeners, engaging in recursive reasoning in order to make inferences about the intent and pragmatic meaning behind utterances. We implemented RSA as a neural network and measured the change in accuracy as a function of recursion depth. Project completed at Brown University in 2020.
