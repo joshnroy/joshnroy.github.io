@@ -37,11 +37,11 @@ My goal is to create robust, general, and embodied Artificial Intelligence (AI).
 
 **Generalization in Reinforcement Learning using Metric Learning and Uncertainty Quantification**
 <br>
-  Current Deep Reinforcement Learning agents overfit to training levels and cannot solve unseen levels of the same task. We aim to learn state abstractions that overcome the generalization gap by learning latent-space metrics and quantifying agent uncertainty. Collaboration with researcher at McGill & Facebook AI.
+  Current Deep Reinforcement Learning agents overfit to training levels and cannot robustly solve unseen levels of the same task. We learn state abstractions that overcome the generalization gap by learning latent-space metrics and quantifying agent uncertainty. Current project with researcher at McGill & Facebook AI Research.
 
 **Learning Representations from Naturalistic Object Transformations in Video**
 <br>
-  Contrastive algorithms have been shown to improve generalization and unsupervised learning by learning invariances to specific image transformations. We apply contrastive learning using sequential (rather than i.i.d.) video frames and learn invariances to real-world transformations, resulting in general object representations. Collaboration with researcher at MIT & UC Berkeley.
+  Contrastive algorithms are used for unsupervised learning and improve generalization by learning invariances to specific image transformations present in training data. We apply contrastive learning to sequential (rather than i.i.d.) video frames and learn invariances to naturally occuring transformations, resulting in general object representations. Current project with researcher at MIT & UC Berkeley.
 
 **Multi-Recursion Neural RSA**
 <br>
