@@ -12,7 +12,7 @@ My goal is to create robust, general, and embodied Artificial Intelligence (AI).
 ## Publications
 
 
-[**Visual Transfer for Reinforcement Learning via Wasserstein Domain Confusion**](https://arxiv.org/pdf/2006.03465.pdf) 
+[**Visual Transfer for Reinforcement Learning via Wasserstein Domain Confusion**](/wappo) 
 <br>
    AAAI 2021, First Author on Paper
 
