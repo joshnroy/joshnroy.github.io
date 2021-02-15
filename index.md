@@ -14,7 +14,8 @@ My goal is to create robust, general, and embodied Artificial Intelligence (AI).
 
 [**Visual Transfer for Reinforcement Learning via Wasserstein Domain Confusion**](/wappo) 
 <br>
-   AAAI 2021, First Author on Paper
+   [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), First Author on Paper
+   [RL4RealLife 2020](https://sites.google.com/view/RL4RealLife), First Author on Paper
 
 [**Learning Feature Extraction for Transfer from Simulation to Reality**](https://cs.brown.edu/research/pubs/theses/ugrad/2019/roy.josh.pdf) 
 <br>
@@ -22,15 +23,15 @@ My goal is to create robust, general, and embodied Artificial Intelligence (AI).
 
 [**Advanced Autonomy on a Low-Cost Educational Platform**](https://arxiv.org/abs/1910.03516) 
 <br>
-   *Robocup Best Paper Award Finalist*, IROS 2019, Macau China, November 4-8 2019, Second Author on [Paper](https://arxiv.org/pdf/1910.03516.pdf), Poster
+   *Robocup Best Paper Award Finalist*, [IROS 2019](https://www.iros2019.org/), Second Author on [Paper](https://arxiv.org/pdf/1910.03516.pdf), Poster
 
 [**PiDrone: An Autonomous Educational Drone using Raspberry Pi and Python**](https://ieeexplore.ieee.org/abstract/document/8593943) 
 <br>
-   IROS 2018, Madrid Spain, October 1-5 2018, First Author on [Paper](http://h2r.cs.brown.edu/wp-content/uploads/pidrone18.pdf), Poster
+   [IROS 2018](https://www.iros2018.org/), First Author on [Paper](http://h2r.cs.brown.edu/wp-content/uploads/pidrone18.pdf), Poster
 
 **PiDrone: Design of a Low Cost Autonomous Drone**
 <br>
-   CARRE International Research Symposium 2017, Toronto Canada, June 21-22 2017, First Author on Poster
+   CARRE International Research Symposium 2017, First Author on Poster
    
 
 ## Selected Projects
