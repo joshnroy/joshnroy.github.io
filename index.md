@@ -14,9 +14,8 @@ My goal is to create robust, general, and embodied Artificial Intelligence (AI).
 
 [**Visual Transfer for Reinforcement Learning via Wasserstein Domain Confusion**](/wappo) 
 <br>
-   [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), First Author on Paper
-   [RL4RealLife 2020](https://sites.google.com/view/RL4RealLife), First Author on Paper
-
+   [AAAI 2021](https://aaai.org/Conferences/AAAI-21/) & [RL4RealLife 2020](https://sites.google.com/view/RL4RealLife), First Author on Paper
+   
 [**Learning Feature Extraction for Transfer from Simulation to Reality**](https://cs.brown.edu/research/pubs/theses/ugrad/2019/roy.josh.pdf) 
 <br>
    First Author on Undergraduate Honors Thesis at [Brown University](https://brown.edu)
