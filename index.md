@@ -3,7 +3,7 @@ layout: page
 published: true
 ---
 
-I am a Software Engineer at [Cognex](https://www.cognex.com/), working on deep learning/computer vision applications in factory automation.
+I am a Software Engineer at [Cognex](https://www.cognex.com/), working on deep learning/computer vision applications in factory automation. In my free time, I research as a member of [MLCollective](http://mlcollective.org/), a (very cool!) non-profit machine learning research lab.
 
 I just graduated my Master's in Computer Science at Brown University, working with [George Konidaris](https://cs.brown.edu/people/gdk/), [Stefanie Tellex](https://cs.brown.edu/people/stellex/), and [James Tompkin](http://jamestompkin.com/), in May 2020. Previously, I was an undergraduate student at Brown.
 
@@ -79,11 +79,19 @@ My goal is to create robust, general, and embodied Artificial Intelligence (AI).
 
 **Systems Programmer, Operator, Consultant (SPOC)** at [Brown University Department of Computer Science](http://cs.brown.edu) - Fall 2017 through Spring 2019
 
-## Invited Talks
+## Talks
 
-**Speaker** at Nerd Nite Providence 2020, Brown University Love Data Week
+### 2021
 
-**Semi-Finalist** at Research Matters 2020, Brown University Graduate School. (Competition/Event cancelled due to COVID-19)
+Deep Learning: Classics and Trends, MLCollective. \*Talk scheduled in May
+
+bigAI, Brown University. _To Infinite (Visual) Transfer and Beyond_
+
+### 2020
+
+Nerd Nite Providence, Brown University Love Data Week. _Making AI See like Humans_
+
+Semi-Finalist at Research Matters Competition, Brown University Graduate School. (Competition/Event cancelled due to COVID-19). _Making AI See like Humans_
 
 ## Service
 
