@@ -3,9 +3,9 @@ layout: page
 published: true
 ---
 
-I am currently a Quantitative Software Engineer at [Two Sigma](https://www.twosigma.com/) working on applications of modeling pipelines, software engineering, and data analysis in systematic trading. In my free time, I research as a member of [MLCollective](http://mlcollective.org/), a (very cool!) non-profit machine learning research lab.
+I am currently a Quantitative Software Engineer at [Two Sigma](https://www.twosigma.com/) working on applications of modeling pipelines, software engineering, and data analysis in systematic trading.
 
-Previously, I was a Software Engineer at [Cognex](https://www.cognex.com/), working on deep learning/computer vision applications in factory automation.
+Previously, I was a Software Engineer at [Cognex](https://www.cognex.com/), working on deep learning/computer vision applications in factory automation and a researcher at [MLCollective](http://mlcollective.org/), a (very cool!) non-profit machine learning research lab.
 
 I graduated my Master's in Computer Science at Brown University, working with [George Konidaris](https://cs.brown.edu/people/gdk/), [Stefanie Tellex](https://cs.brown.edu/people/stellex/), and [James Tompkin](http://jamestompkin.com/), in May 2020. Previously, I was an undergraduate student at Brown.
 
