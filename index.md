@@ -51,6 +51,8 @@ My goal is to create robust, general, and embodied Artificial Intelligence (AI).
 
 ## Awards and Honors
 
+**Two Sigma Internal AI/ML Hackathon, Best Project**, Two Sigma 2023
+
 **NSF Graduate Research Fellowships Program (GRFP) Honorable Mention**, National Science Foundation 2020
 
 **Senior Prize in Computer Science**, Brown University 2019
@@ -65,6 +67,8 @@ My goal is to create robust, general, and embodied Artificial Intelligence (AI).
 
 ## Research and Teaching Roles
 
+**Independent Researcher** at [Machine Learning Collective](https://mlcollective.org/) - June 2020 Through November 2021
+
 **Research Assistant** at [Brown Robotics](http://robotics.cs.brown.edu), [Brown University Department of Computer Science](http://cs.brown.edu) - Summer 2016 through Spring 2020
 
 **Graduate Data Scientist** at Brown Venture Capital Inclusion Lab - Fall 2019 through Spring 2020
@@ -73,9 +77,11 @@ My goal is to create robust, general, and embodied Artificial Intelligence (AI).
 
 ## Industry Roles
 
-**Associate Software Engineer** at [Cognex](http://cognex.com) - Summer 2020 through current
+**Quantitative Developer (Systematic Macro)** at Two Sigma Investments - October 2021 through Present
 
-**Software Engineering Intern** at [Cognex](http://cognex.com) - Summer 2019
+**Machine Learning Algorithm and Software Engineer** at [Cognex](http://cognex.com) - Summer 2020 through October 2021
+
+**Software Engineering and Machine Learning Intern** at [Cognex](http://cognex.com) - Summer 2019
 
 **Deep Learning Intern** at [NVIDIA](http://nvidia.com) - Summer 2018
 
