@@ -9,10 +9,11 @@ Previously, I was a Software Engineer at [Cognex](https://www.cognex.com/), work
 
 I graduated my Master's in Computer Science at Brown University, working with [George Konidaris](https://cs.brown.edu/people/gdk/), [Stefanie Tellex](https://cs.brown.edu/people/stellex/), and [James Tompkin](http://jamestompkin.com/), in May 2020. Previously, I was an undergraduate student at Brown.
 
-My goal is to create robust, general, and embodied Artificial Intelligence (AI). My interests include **Reinforcement Learning (RL)**, **Learning Representations & Priors**, and **Exploration/Intrinsic Motivation**, with applications to **Robots**, **Games**, and other autonomous agents.
+My goal is to create robust, general, and Artificial Intelligence (AI). My interests include **Reinforcement Learning (RL)**, **Generalization Across Domains**, and **Fundamental World Knowledge**, with applications to **Robots**, **Games**, **Finance**, **Art**, and many other domains.
+
+In my free time, I do things like teaching [Taekwondo at Columbia](https://www.instagram.com/cutaekwondo/), [photography](https://www.instagram.com/thosehippos/), rock climbing, and music.
 
 ## Publications
-
 
 [**Visual Transfer for Reinforcement Learning via Wasserstein Domain Confusion**](/wappo) 
 <br>
