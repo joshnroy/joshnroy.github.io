@@ -34,6 +34,18 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
+author:
+  name: "Josh Roy"
+  avatar: "/assets/images/profile.jpeg"  # Path to your photo
+  location: "New York City" # Optional
+  links: # Optional social media links
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/joshnroy"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/josh-roy-037997104/"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
