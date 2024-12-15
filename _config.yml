@@ -62,7 +62,7 @@ data:
   navigation:
     main:
       - title: "Bio"
-        url: /bio/
+        url: /bio
       - title: "Blog"
         url: https://medium.com/@thosehippos
 
