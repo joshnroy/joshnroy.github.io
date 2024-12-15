@@ -1,27 +1,25 @@
 ---
-layout: page
-title: "Josh N. Roy"
----
-<!-- ---
-layout: home
+layout: single
+title: "Bio"
 author_profile: true
 classes: wide
---- -->
+---
 
+I am passionate about using technology to change the world! And about technology as a whole. My goal is to create robust, safe, and beneficial Artificial Intelligence and my interests span the power set of research, machine learning, quantitative technologies, and anything futuristic (ex: AR/VR, automation, robotics).
 
-I am currently a Quantitative Software Engineer at [Two Sigma](https://www.twosigma.com/) working on applications of modeling pipelines, software engineering, and data analysis in systematic trading.
+Most recently, I was a Quantitative Software Engineer at [Two Sigma](https://www.twosigma.com/) working on applications of modeling pipelines, software engineering, and data analysis in systematic trading.
 
 Previously, I was a Software Engineer at [Cognex](https://www.cognex.com/), working on deep learning/computer vision applications in factory automation and a researcher at [MLCollective](http://mlcollective.org/), a (very cool!) non-profit machine learning research lab.
 
-I graduated my Master's in Computer Science at Brown University, working with [George Konidaris](https://cs.brown.edu/people/gdk/), [Stefanie Tellex](https://cs.brown.edu/people/stellex/), and [James Tompkin](http://jamestompkin.com/), in May 2020. Previously, I was an undergraduate student at Brown.
+I graduated my Master's in Computer Science at Brown University, working with [George Konidaris](https://cs.brown.edu/people/gdk/), [Stefanie Tellex](https://cs.brown.edu/people/stellex/), and [James Tompkin](http://jamestompkin.com/), in May 2020. Previously, I was an undergraduate student at Brown University.
 
-My goal is to create robust, general, and Artificial Intelligence (AI). My interests include **Reinforcement Learning (RL)**, **Generalization Across Domains**, and **Fundamental World Knowledge**, with applications to **Robots**, **Games**, **Finance**, **Art**, and many other domains.
+My goal is to create robust, general, and Artificial Intelligence (AI). My interests include (but are by no means limited to) **Reinforcement Learning (RL)**, **LLM Agent-Based Approaches**, and **Cross-Domain Generalization**, with applications to real-world domains such as **Robots**, **Finance**, and **Art**, among others.
 
-In my free time, I do things like teaching [Taekwondo at Columbia](https://www.instagram.com/cutaekwondo/), [photography](https://www.instagram.com/thosehippos/), rock climbing, and music.
+Outside of Computer Science, I do things like teaching [Taekwondo at Columbia](https://www.instagram.com/cutaekwondo/), [photography](https://www.instagram.com/thosehippos/), rock climbing, and music.
 
 ## Publications
 
-[**Visual Transfer for Reinforcement Learning via Wasserstein Domain Confusion**](/wappo) 
+[**Visual Transfer for Reinforcement Learning via Wasserstein Domain Confusion**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=380VVtUAAAAJ&citation_for_view=380VVtUAAAAJ:UeHWp8X0CEIC) 
 <br>
    [AAAI 2021](https://aaai.org/Conferences/AAAI-21/) & [RL4RealLife 2020](https://sites.google.com/view/RL4RealLife), First Author on Paper
    
@@ -82,23 +80,27 @@ In my free time, I do things like teaching [Taekwondo at Columbia](https://www.i
 
 **Head Teaching Assistant** and **Teaching Assistant** at [Brown CS](http://cs.brown.edu) - Fall 2016 through Spring 2020
 
+**Systems Programmer, Operator, Consultant (SPOC)** at [Brown University Department of Computer Science](http://cs.brown.edu) - Fall 2017 through Spring 2019
+
 ## Industry Roles
+
+### Full-Time Employment
 
 **Quantitative Developer (Systematic Macro)** at Two Sigma Investments - October 2021 through Present
 
 **Machine Learning Algorithm and Software Engineer** at [Cognex](http://cognex.com) - Summer 2020 through October 2021
 
+### Internships
+
 **Software Engineering and Machine Learning Intern** at [Cognex](http://cognex.com) - Summer 2019
 
 **Deep Learning Intern** at [NVIDIA](http://nvidia.com) - Summer 2018
-
-**Systems Programmer, Operator, Consultant (SPOC)** at [Brown University Department of Computer Science](http://cs.brown.edu) - Fall 2017 through Spring 2019
 
 ## Talks
 
 ### 2021
 
-Deep Learning: Classics and Trends, MLCollective. \*Talk scheduled in May
+Deep Learning: Classics and Trends, MLCollective. _Wasserstein Adversarial Proximal Policy Optimization_
 
 bigAI, Brown University. _To Infinite (Visual) Transfer and Beyond_
 
