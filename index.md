@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-pagination: false
+classes: wide
 ---
 
 I am passionate about using technology to change the world! And about technology as a whole. My goal is to create robust, safe, and beneficial Artificial Intelligence and my interests span the power set of research, machine learning, quantitative technologies, and anything futuristic (ex: AR/VR, automation, robotics).

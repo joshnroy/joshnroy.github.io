@@ -2,6 +2,12 @@
 layout: page
 title: "Josh N. Roy"
 ---
+<!-- ---
+layout: home
+author_profile: true
+classes: wide
+--- -->
+
 
 I am currently a Quantitative Software Engineer at [Two Sigma](https://www.twosigma.com/) working on applications of modeling pipelines, software engineering, and data analysis in systematic trading.
 
