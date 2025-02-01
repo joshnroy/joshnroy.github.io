@@ -1,21 +1,37 @@
 ---
 layout: single
-title: "Bio"
+title: "Curriculum Vitae"
 author_profile: true
 classes: wide
 ---
 
-I am passionate about using technology to change the world! And about technology as a whole. My goal is to create robust, safe, and beneficial Artificial Intelligence and my interests span the power set of research, machine learning, quantitative technologies, and anything futuristic (ex: AR/VR, automation, robotics).
+[Software Engineering Experience](#industry-roles)
 
-Most recently, I was a Quantitative Software Engineer at [Two Sigma](https://www.twosigma.com/) working on applications of modeling pipelines, software engineering, and data analysis in systematic trading.
+[Education](#education)
 
-Previously, I was a Software Engineer at [Cognex](https://www.cognex.com/), working on deep learning/computer vision applications in factory automation and a researcher at [MLCollective](http://mlcollective.org/), a (very cool!) non-profit machine learning research lab.
+[Publications](#publications)
 
-I graduated my Master's in Computer Science at Brown University, working with [George Konidaris](https://cs.brown.edu/people/gdk/), [Stefanie Tellex](https://cs.brown.edu/people/stellex/), and [James Tompkin](http://jamestompkin.com/), in May 2020. Previously, I was an undergraduate student at Brown University.
+[Research Experience](#selected-projects)
 
-My goal is to create robust, general, and Artificial Intelligence (AI). My interests include (but are by no means limited to) **Reinforcement Learning (RL)**, **LLM Agent-Based Approaches**, and **Cross-Domain Generalization**, with applications to real-world domains such as **Robots**, **Finance**, and **Art**, among others.
+## Industry Roles
 
-Outside of Computer Science, I do things like teaching [Taekwondo at Columbia](https://www.instagram.com/cutaekwondo/), [photography](https://www.instagram.com/thosehippos/), rock climbing, and music.
+### Full-Time Employment
+
+**Quantitative Developer (Systematic Macro)** at Two Sigma Investments - October 2021 through December 2024
+
+**Machine Learning Algorithm and Software Engineer** at [Cognex](http://cognex.com) - Summer 2020 through October 2021
+
+### Internships
+
+**Software Engineering and Machine Learning Intern** at [Cognex](http://cognex.com) - Summer 2019
+
+**Deep Learning Intern** at [NVIDIA](http://nvidia.com) - Summer 2018
+
+## Education
+
+**Master's of Science** in **Computer Science** at Brown University - 2020
+
+**Bachelor's of Science** in **Computer Science** at Brown University - 2019
 
 ## Publications
 
@@ -81,20 +97,6 @@ Outside of Computer Science, I do things like teaching [Taekwondo at Columbia](h
 **Head Teaching Assistant** and **Teaching Assistant** at [Brown CS](http://cs.brown.edu) - Fall 2016 through Spring 2020
 
 **Systems Programmer, Operator, Consultant (SPOC)** at [Brown University Department of Computer Science](http://cs.brown.edu) - Fall 2017 through Spring 2019
-
-## Industry Roles
-
-### Full-Time Employment
-
-**Quantitative Developer (Systematic Macro)** at Two Sigma Investments - October 2021 through Present
-
-**Machine Learning Algorithm and Software Engineer** at [Cognex](http://cognex.com) - Summer 2020 through October 2021
-
-### Internships
-
-**Software Engineering and Machine Learning Intern** at [Cognex](http://cognex.com) - Summer 2019
-
-**Deep Learning Intern** at [NVIDIA](http://nvidia.com) - Summer 2018
 
 ## Talks
 
