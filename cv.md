@@ -17,7 +17,9 @@ classes: wide
 
 ### Full-Time Employment
 
-**Quantitative Developer (Systematic Macro)** at Two Sigma Investments - October 2021 through December 2024
+**Founding Software Engineer (Machine Learning/AI)** at [Pillar Adivsors](https://www.pillar-advisors.com/) - February 2025 through Current
+
+**Quantitative Developer (Systematic Macro)** at [Two Sigma Investments](https://www.twosigma.com/) - October 2021 through December 2024
 
 **Machine Learning Algorithm and Software Engineer** at [Cognex](http://cognex.com) - Summer 2020 through October 2021
 
