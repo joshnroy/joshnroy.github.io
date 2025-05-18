@@ -4,7 +4,9 @@ author_profile: true
 classes: wide
 ---
 
-I am a Machine Learning and Backend Software Engineer and have worked on topics ranging from modeling pipelines and data analysis in systematic trading at [Two Sigma](),  deep learning/computer vision applications at [Cognex](), and machine learning/artificial intelligence research during my internship at [NVIDIA](), undergrad, master's.
+I am a founding engineer at a [full-stack AI](https://www.ycombinator.com/rfs#full-stack-ai) startup called [Pillar Advisors](https://www.pillar-advisors.com/) working on LLM and machine learning-enabled automation within financial domans including Tax and Accounting.
+
+Previously, I have worked as a Machine Learning and Backend Engineer on topics ranging from modeling pipelines and data analysis in systematic trading at [Two Sigma](https://www.twosigma.com/),  deep learning/computer vision applications at [Cognex](https://www.cognex.com/), and machine learning/artificial intelligence research during my internship at [NVIDIA](https://www.nvidia.com/en-us/), undergrad, master's.
 
 I have also been a researcher at [MLCollective](http://mlcollective.org/), a (very cool!) non-profit machine learning research lab.
 
