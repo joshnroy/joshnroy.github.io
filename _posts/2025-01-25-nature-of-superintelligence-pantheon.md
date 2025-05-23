@@ -1,0 +1,39 @@
+---
+layout: single
+title: "On the Nature of SuperIntelligence: Reflections on Pantheon"
+slug: nature-of-superintelligence-pantheon
+date: 2025-01-25
+categories: blog
+tags: [ai, superintelligence, philosophy, ethics, alignment]
+excerpt: "I just finished watching near-future sci-fi show Pantheon and it caused me to think about the nature of superintelligence."
+author_profile: true
+---
+
+I just finished watching near-future sci-fi show [Pantheon](https://en.wikipedia.org/wiki/Pantheon_(TV_series)) and it caused me to think about the nature of superintelligence. Warning: This may contain spoilers.
+
+As [I'm a software engineer](http://joshnroy.github.io) in the fields of machine learning/automation/data and a futurist by nature, I tend to spend quite a bit of time imagining the future and it's possible utopian/dystopian settings. Usually, these settings tend to be a bit further in the future, such as [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) or [The Three Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)), but I recently watched Pantheon, a very near-future show that seems to give a warning about the nature and alignment of superintelligence. The catch: It's not artificial intelligence in this show — it's actually human intelligence simulated at a faster-than-human rate!
+
+TLDR: There are some (very gruesome) methods to scanning a human brain and simulating it on a computer, often at faster than the speed of the original brain. Without going into the ethical problems or implications of killing humans to upload their brain to begin with, this show predicted many societal happenings as a result of the creation of these superintelligences — uploaded intelligences (UIs).
+
+In essence, the UIs function as humans would, having the same spectrum of thoughts, emotions, and decisions. This includes disagreement. Characters such as [Chanda](https://pantheon-amc.fandom.com/wiki/Vinod_Chanda), an Indian computer scientist, are primarily concerned with concepts such as self-preservation, leading to a variant on the [paperclip problem](https://cepr.org/voxeu/columns/ai-and-paperclip-problem): in order to ensure his (and the other UIs') self preservation, he hacks nuclear missiles, threatens humans with death, and is very willing to sacrifice humans or other UIs to achieve his cause. He is willing to use all resources to achieve a goal (though it's his own survival rather than the creation of paperclips). Though his actions are directly in conflict with the first of [Isaac Asimov's Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics) (digression: most of Asimov's related stories are counterexamples to why these laws are not sufficient), this is a very interesting case study of the importance of what Anthropic calls [Alignment Science](https://www.anthropic.com/research#alignment): the aligning of AI to humanity's interests.
+
+The primary issue with UIs in the show is that UIs are *not* aligned with humanity's interests — neither with any part of humanity (as Chanda isn't) or with all of humanity (as a Russian Hacker UI that shows up late in the show isn't). There's two problems here:
+
+1. Simply by existing as a different type of being, a UI does not have directly aligned incentives with humanity. For example, a UI is not particularly affected if the entire earth's temperature drops as it doesn't require particularly human-friendly temperatures (note: I'm ignoring indirect issues to the UI via ecological disaster here).
+2. Humans themselves are not all in alignment: We can see this on a country scale through the presence of wars, on an organizational scale with closed-source software arms races between companies, and on an individual scale via interpersonal disagreements.
+
+Though at a technical level, (2) doesn't affect the algorithms to align an artificial intelligence with any particular sense of morality, it also can't be ignored: a human-friendly AI may not fall into (1), but it very well may fall into (2).
+
+The secondary issue depicted with UIs in the show (though one I believe applies to any superhuman intelligence) is one of productivity multiplication. As with any prior [technological revolution](https://en.wikipedia.org/wiki/Technological_revolution) (ex: agricultural, industrial, technological, IT), there comes a magnification of ability. This can be good (ex: More food is produced per capita, steel is invented and buildings are more stable) but can also be bad (ex: weapons of mass destruction are created). Of course, what is good and bad is a subjective matter, but it is very unlikely that any technological improvement is universally viewed as positive by all affected parties.
+
+As a utopist overall, I sincerely hope that this increased efficiency and power will allow us to reconcile our differences and different viewpoints in a way that will enable humanity to overcome its differences. For example, if we can successfully transition from a scarcity-based society to a post-scarcity based society where there is enough excess, sustainable output that we can all live in a universal-basic-income utopia (idealistic, I know), that would be ideal! The question of course is how we get there.
+
+I have strong belief that with ongoing research into interpretability and alignment science overall, we can create a system of superhuman intelligences whose checks and balances cancel out in a way that humanity is the beneficiary (such as a correctly implemented, superhuman judicial system balanced with [Constitutional AI](https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback)), we can solve problem (1). Creating such a system will likely be a cross-disciplinary endeavor pulling from philosophy, ethics, law, and (of course) computer science.
+
+Though these are both large problems, one seems more technological and the other more societal to me (acknowledging of course my biased knowledge as a computer scientist and not a lawyer). Though the Chanda problem (1) exists, I believe there is a complex (but identifiable!) path forward. I believe that deciding which set of morals to align to, who gets to decide those, and how to determine those (2) is a very large problem that needs to be overcome. Though neither I nor anyone has the answers to these questions right now, I have a few spaces I mean to explore. Leaving on this note for now to go ponder on the future!
+
+- Finding some purpose and source of income for those whose jobs are replaced. With the advent of the loom, society needed to find a job for the previous hand-weavers. In AI-enabled times, many jobs (ex: writing code at a low level) may be replaced and thus there is a displaced population. It's possible that further education and planned rollouts can help mitigate this problem from immediately displacing people to phasing out manual labor with automated labor over time while finding new, more productive jobs for those workers. Though it has analogies to library updating paradigms from computer science, such a rollout will be much more complicated at a societal level.
+- Differentiating between human-centric and automatable jobs: Some jobs require (or prefer) a human touch. For example, any job considering human emotions likely (at least for some notably long period of time) requires awareness and understanding of human emotions (which is almost by definition neither logical nor universal), lest the system fall prey to the [McNamara Fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy) (ignoring those things that cannot be measured). I'll refer to Claude Sonnet 3.5's current thoughts on the matter.
+
+![Claude Sonnet 3.5 on AI and the McNamara Fallacy](/assets/images/blog/claude-ai-mcnamara.png)
+*Claude Sonnet 3.5 on AI and the McNamara Fallacy*
