@@ -36,6 +36,9 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache  # This is required for minimal-mistakes
 
+# Blog settings
+permalink: /blog/:slug/
+
 author:
   name: "Josh Roy"
   avatar: "/assets/images/profile.jpeg"  # Path to your photo
