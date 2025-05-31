@@ -60,6 +60,13 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:joshnroy@gmail.com"
 
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-FSLWBL641C"  # GA4 Measurement ID for joshnroy.github.io
+    anonymize_ip: false  # Set to true for enhanced privacy (optional)
+
 # Site Navigation
 data:
   navigation:
