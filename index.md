@@ -16,4 +16,4 @@ My goal is to create robust, general, Artificial Intelligence (AI). My interests
 
 Outside of Computer Science, I do things like teaching [Taekwondo at Columbia](https://www.instagram.com/cutaekwondo/), photography, rock climbing, and music.
 
-For my latest musings on the societal effects of superintelligence, see my recent [writing on the topic](https://medium.com/@thosehippos/on-the-nature-of-superintelligence-reflections-on-pantheon-4c7dcda6762c). For a full list of work experience, publications, awards, and academic activities, please see my [bio](/bio). 
+For my latest musings on the societal effects of superintelligence, see my recent [writing on the topic](https://medium.com/@thosehippos/on-the-nature-of-superintelligence-reflections-on-pantheon-4c7dcda6762c). For a full list of work experience, publications, awards, and academic activities, please see my [bio](/bio). I've just started writing about my thoughts, check out my [blog](/blog/). 

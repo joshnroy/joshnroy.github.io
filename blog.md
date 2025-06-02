@@ -5,6 +5,8 @@ permalink: /blog/
 author_profile: true
 ---
 
+I've just started writing recently, so check back often for new posts!
+
 Welcome to my blog! Here I share my musings on software engineering, AI/ML, and technology in general.
 
 <div>
