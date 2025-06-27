@@ -2,7 +2,7 @@
 layout: single
 title: "A map reduce model of AI"
 slug: a-map-reduce-model-of-ai
-date: 2025-06-21
+date: 2025-06-27
 categories: blog
 tags: [software-engineering, ai, machine-learning, llm]
 excerpt: ""
@@ -23,6 +23,16 @@ These have existed publicly for a while: Since ChatGPT was publicly released, pr
 
 # Git commit level agents
 
+Next come file/commit level agents such as Cursor, Windsurf, and Github Copilot. These are not fully featured independent agents - in fact they're somewhere between file-level and commit-level, often requiring a human to approve changes or run integration tests (they often run unit tests independently).
+
 # Pull request level agents
 
+At the pull request level, we see agents such as Claude Code, Gemini CLI, Google Jules, and OpenAI Codex. The interface for these agents is not a code editing file (though they can show you one), but instead a chat interface where you iterate with the agents on a plan, steer their implementation, and ask them for revisions. This is a distinct step higher than the former category where you still look at the individual files at each edit-step. Instead you may ask these agents to make a pull request on your behalf and then request revisions.
+
 # A map-reduce model
+
+Given that agents are not yet at the point where I would put code into production without both a complete understanding and review, there is limited speedup that we can get from these agents. As of today's date, I still iterate with them to create a plan, have them asynchronously execute the plan, and then iterate on PR review. In such a case, the limitation of development speed is no longer my physical typing speed, but instead the speed of my ability to plan, understand, and review code. This is not unlike the work of a senior engineer with direct reports.
+
+In such a world, we are limited to an approximate maximum of a 50% speedup. This in itself is quite large and may allow a startup with 2-3 engineers to work for much longer before hiring, but it still fundamentally limited. Without discussing the nature of unreviewed code here, I believe the only speedup possible is batch processing - aka a map-reduce model.
+
+For example, if I have a backlog of tasks to do, I can process them in serial (scoping each one implementing each one, and testing each one independently). Or I can work in batch - first iterating on a plan for each one, then mapping their implementation to a series of coding agents, before finally doing a human-level map step consisting of reviewing the code and a reduce step of merging the code.
