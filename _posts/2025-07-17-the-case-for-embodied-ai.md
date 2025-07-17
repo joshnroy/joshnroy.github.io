@@ -15,9 +15,9 @@ Coming from a robotics background, the case for Embodied AI in robotics is prett
 
 # Montezuma's Revenge
 
-During my undergrad and masters research, one of the largest (non-real-life) Embodied AI tasks was solving [Montezuma's Revenge]().
+During my undergrad and masters research, one of the largest (non-real-life) Embodied AI tasks was solving Montezuma's Revenge.
 
-![Montezuma's Revenge Start Screen](/images/blog/montezumas_start_screen.png)
+![Montezuma's Revenge Start Screen](/assets/images/blog/montezumas_start_screen.png)
 
 Inspired by [Claude Plays Pokemon](https://www.anthropic.com/news/visible-extended-thinking), I came back to this game as a sort of LLM-test. I hypothesized that there were a few reasons that modern LLMs may do well (tested with OpenAI's 4o, Gemini 2.5 Pro, and Claude Sonnet 3.5. Not more advanced models due to lack of funding).
 
@@ -29,7 +29,7 @@ Starting with a mini-experiment - playing cartpole - I initially found quite neg
 
 I then moved to Montezuma's Revenge.
 
-![Monezuma's Revenge First Room](/images/blog/montezumas_revenge_first_screen.png)
+![Monezuma's Revenge First Room](/assets/images/blog/montezumas_revenge_first_screen.png)
 
 I was initially quite hopeful, with the agent picking actions like `down` and climbing down the initial ladder, with reasoning such as `I must reach the bottom` or `I must reach the key`. However, as the floor right under the ladder is an escalator (it pushes the character to the side), the agent initially fell off the platform to its death.
 
