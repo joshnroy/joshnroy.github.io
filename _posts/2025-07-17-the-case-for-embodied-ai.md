@@ -12,7 +12,6 @@ author_profile: true
 Coming from a robotics background, the case for Embodied AI in robotics is pretty clear:
 1. No matter how much analysis your AI can do, it has to take actions and drive a robot.
 2. (Inverse) No Free Lunch: a representation is only useful in the case that it enables some downstream task. (Reverse of a representation that enables all tasks is better at none of them). I.E. Without training for action in mind, it is unlikely that a non-action-based representation will be sufficient for action.
-3. 
 
 # Montezuma's Revenge
 
@@ -68,3 +67,11 @@ There are a few potential reasons for this case:
 This also explains why frontier labs are training computer-use-specific models. In other words - embodied models that act within their environment, which in this case happens to be a computer or web browser.
 
 # Conclusions and Future Steps
+
+Based on both of these experiments, I believe that Embodied AI (that knows about and can act reasonably in its environment) is heavily based on the training schemes of the base models. Whether this is done by reinforcement learning, fine tuning, or some other method is perhaps an open research question. However, it seems quite clear that the (information-theoretic) overlap between the training tasks of the visual-language models (ex: describe this scene vs look at the location of my mouse pointer) can cause significant (lack of) downstream performance capabilities.
+
+Some food for thought: A human that has never used a computer before also would have a lot of difficulty navigating tax software (as a proxy example, my grandparents must be taught to use new software). As we go through life, we specialize in specific domains and learn specific skills, yet we expect a single Visual-Language model to be able to solve a wide variety of problems.
+
+In the short to mid term, I believe that training embodied, action-based agents (ex: see reinforcement learning from coding challenges and how it enabled to rise of coding agents) will allow us to achieve human-level (or even (superhuman level)[/blog/nature-of-superintelligence-pantheon/]) performance on specific domains or tasks.
+
+In order to achieve broad-level human/superhuman level performance across _all_ tasks, I suspect that some sort of (either implicitly or explicitly learned) hierarchical architecture will get us around the No Free Lunch Theorem. If an agent could detect and "load in" the relevant module (ex: A computer navigation module), this would skirt the representational and test/train overlap issues.
