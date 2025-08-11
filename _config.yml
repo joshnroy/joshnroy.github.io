@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Josh Roy - AI Engineer & Tinkerer
+title: Josh Roy - AI Engineer & Researcher
 email: joshnroy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -44,9 +44,6 @@ author:
   avatar: "/assets/images/profile.jpeg"  # Path to your photo
   location: "New York City" # Optional
   links: # Optional social media links
-    - label: "CV"
-      icon: "fas fa-fw fa-user"
-      url: "/cv"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=380VVtUAAAAJ"
