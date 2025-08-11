@@ -14,6 +14,6 @@ I graduated my Master's in Computer Science at Brown University, supervised by [
 
 My goal is to research, develop, and create embodied Artificial Intelligence/Machine Learning algorithms and systems. My interests include (but are not limited to) **Reinforcement Learning (RL)**, **Planning/Reasoning**, and **Generative/World Modeling**, with applications to real-world domains such as **Robotics**, **Finance**, and **Healthcare**.
 
-Outside of Computer Science, I do things like teaching [Taekwondo at Columbia](https://www.instagram.com/cutaekwondo/), photography, rock climbing, and music.
+Outside of Computer Science, I do things like teaching [Taekwondo at Columbia](https://www.instagram.com/cutaekwondo/) and rock climbing.
 
 I've just started writing about my thoughts. Check out my [blog](/blog/). 
