@@ -14,6 +14,19 @@ I graduated my Master's in Computer Science at Brown University, supervised by [
 
 My goal is to research, develop, and create embodied Artificial Intelligence/Machine Learning algorithms and systems. My interests include (but are not limited to) **Reinforcement Learning (RL)**, **Planning/Reasoning**, and **Generative/World Modeling**, with applications to real-world domains such as **Robotics**, **Finance**, and **Healthcare**.
 
-Outside of Computer Science, I do things like teaching [Taekwondo at Columbia](https://www.instagram.com/cutaekwondo/) and rock climbing.
+I've just started writing about my thoughts. Check out my [blog](/blog/).
 
-I've just started writing about my thoughts. Check out my [blog](/blog/). 
+## Publications
+
+[**Visual Transfer for Reinforcement Learning via Wasserstein Domain Confusion**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=380VVtUAAAAJ&citation_for_view=380VVtUAAAAJ:UeHWp8X0CEIC)  
+First Author, AAAI 2021
+
+[**Advanced Autonomy on a Low-Cost Educational Platform**](https://arxiv.org/abs/1910.03516)  
+Robocup Best Paper Finalist, IROS 2019
+
+[**PiDrone: An Autonomous Educational Drone using Raspberry Pi and Python**](http://h2r.cs.brown.edu/wp-content/uploads/pidrone18.pdf)  
+First Author, IROS 2018
+
+---
+
+Outside of Computer Science, I do things like teaching [Taekwondo at Columbia](https://www.instagram.com/cutaekwondo/) and rock climbing. 
