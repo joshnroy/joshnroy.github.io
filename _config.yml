@@ -39,6 +39,20 @@ plugins:
 # Blog settings
 permalink: /blog/:slug/
 
+# Collections
+collections:
+  papers:
+    output: true
+    permalink: /papers/:slug/
+
+defaults:
+  - scope:
+      path: ""
+      type: papers
+    values:
+      layout: single
+      author_profile: true
+
 author:
   name: "Josh Roy"
   avatar: "/assets/images/profile.jpeg"  # Path to your photo
