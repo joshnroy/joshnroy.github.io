@@ -5,20 +5,10 @@ permalink: /blog/
 author_profile: true
 ---
 
-I've just started writing recently, so check back often for new posts!
+<meta http-equiv="refresh" content="0; url=https://medium.com/@thosehippos">
 
-Welcome to my blog! Here I share my musings on software engineering, AI/ML, and technology in general.
+## Redirecting to Medium...
 
-<div>
-  {% for post in site.posts %}
-    <article>
-      <h2>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h2>
-      <p class="page__meta">
-        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
-      </p>
-      <p class="archive__item-excerpt">{{ post.excerpt | markdownify | strip_html | truncate: 200 }}</p>
-    </article>
-  {% endfor %}
-</div>
+You are being redirected to my blog on Medium. If you are not redirected automatically, please click the link below:
+
+[Visit my blog on Medium →](https://medium.com/@thosehippos)
