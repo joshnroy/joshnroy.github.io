@@ -6,13 +6,13 @@ classes: wide
 
 I am a founding engineer at a [full-stack AI](https://www.ycombinator.com/rfs#full-stack-ai) startup called [Pillar Advisors](https://www.pillar-advisors.com/) working on LLM, agentic, and machine learning-enabled automation within professional services including Tax and Accounting.
 
-Previously, I have worked as a Machine Learning Engineer on topics ranging from large scale machine learning and production pipelines in systematic trading at [Two Sigma](https://www.twosigma.com/),  deep learning/computer vision applications at [Cognex](https://www.cognex.com/), and reinforcement learning and robotics research during my internship at [NVIDIA](https://www.nvidia.com/en-us/), undergrad, master's.
+Previously, I have worked as a Machine Learning Engineer on topics ranging from large scale machine learning and model-based planning in systematic trading at [Two Sigma](https://www.twosigma.com/),  deep learning/computer vision, and reinforcemment learning from human feedback (RLHF) at [Cognex](https://www.cognex.com/), and academic research in reinforcement learning and robotics during my internship at [NVIDIA](https://www.nvidia.com/en-us/), undergrad, master's at [Brown University](http://bigai.cs.brown.edu).
 
-I have also been a researcher at [MLCollective](http://mlcollective.org/), a non-profit machine learning research lab.
+I have also been an independent researcher at [MLCollective](http://mlcollective.org/), a non-profit machine learning research lab.
 
-I graduated my Master's in Computer Science at Brown University, supervised by [George Konidaris](https://cs.brown.edu/people/gdk/), [Stefanie Tellex](https://cs.brown.edu/people/stellex/), and [James Tompkin](http://jamestompkin.com/), in May 2020. Previously, I was an undergraduate student at Brown University as well as intern at [NVIDIA](https://www.nvidia.com/) and [Cognex](https://www.cognex.com/).
+I graduated my Master's in Computer Science at Brown University, supervised by [George Konidaris](https://cs.brown.edu/people/gdk/), [Stefanie Tellex](https://cs.brown.edu/people/stellex/), and [James Tompkin](http://jamestompkin.com/), in May 2020. Previously, I was an undergraduate student at Brown University.
 
-My goal is to research, develop, and create embodied Artificial Intelligence/Machine Learning algorithms and systems. My interests include (but are not limited to) **Reinforcement Learning (RL)**, **Planning/Reasoning**, and **Generative/World Modeling**, with applications to real-world domains such as **Robotics**, **Finance**, and **Healthcare**.
+My goal is to research, develop, and create embodied Artificial Intelligence/Machine Learning algorithms and systems. My interests include (but are not limited to) **Reinforcement Learning (RL)**, **Planning/Reasoning**, and **Generative/World Modeling**, with applications to real-world domains such as **Robotics** and **Finance**.
 
 Check out my [blog](https://medium.com/@thosehippos).
 
@@ -29,4 +29,4 @@ First Author, IROS 2018
 
 ---
 
-Outside of Computer Science, I do things like teaching [Taekwondo at Columbia](https://www.instagram.com/cutaekwondo/) and rock climbing. 
+Outside of Computer Science, I teach [Taekwondo at Columbia](https://www.instagram.com/cutaekwondo/) and climb rocks. 
