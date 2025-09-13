@@ -30,21 +30,27 @@ First Author, IROS 2018
 ## Awards
 
 **Two Sigma Internal AI/LLM Hackathon Best Project**
+
 2023
 
 [**National Science Foundation Graduate Research Fellowship (NSF GRFP)**](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program)
-Honorable Mention, 2020
+
+Wrote about Uncertainty Quantification, Honorable Mention, 2020
 
 **RoboCup Best Paper Finalist**
+
 IROS 2019
 
 **Sigma Xi Scientific Research Honor Society**
+
 Elected 2019
 
 **Senior Prize and Academic Honors in Computer Science**
+
 Brown University, 2019
 
 **Michael Black Teaching Assistantship Award**
+
 Brown University, 2019
 
 ---
