@@ -29,8 +29,10 @@ First Author, IROS 2018
 
 ## Awards
 
-**Two Sigma Internal AI/LLM Hackathon Best Project**
+[**PiDrone: An Autonomous Educational Drone using Raspberry Pi and Python**](http://h2r.cs.brown.edu/wp-content/uploads/pidrone18.pdf)  
+First Author, IROS 2018
 
+**Two Sigma Internal AI/LLM Hackathon Best Project**
 2023
 
 [**National Science Foundation Graduate Research Fellowship (NSF GRFP)**](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program)
