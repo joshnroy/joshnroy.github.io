@@ -22,7 +22,7 @@ Check out my [blog](https://medium.com/@thosehippos).
 First Author, AAAI 2021
 
 [**Advanced Autonomy on a Low-Cost Educational Platform**](https://arxiv.org/abs/1910.03516)  
-Robocup Best Paper Finalist, IROS 2019
+**Robocup Best Paper Finalist (3 out of 1,127 accepted papers)**, IROS 2019
 
 [**PiDrone: An Autonomous Educational Drone using Raspberry Pi and Python**](http://h2r.cs.brown.edu/wp-content/uploads/pidrone18.pdf)  
 First Author, IROS 2018
