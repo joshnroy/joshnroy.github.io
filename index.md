@@ -27,6 +27,9 @@ First Author, AAAI 2021
 [**PiDrone: An Autonomous Educational Drone using Raspberry Pi and Python**](http://h2r.cs.brown.edu/wp-content/uploads/pidrone18.pdf)  
 First Author, IROS 2018
 
+PiDrone: Design of a Low Cost Autonomous Drone  
+First Author, CARRE International Research Symposium 2017 
+
 ## Awards
 
 **Two Sigma Internal AI/LLM Hackathon Best Project**  
