@@ -58,6 +58,9 @@ author:
   avatar: "/assets/images/profile.jpeg"  # Path to your photo
   location: "New York City" # Optional
   links: # Optional social media links
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/CV.pdf"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=380VVtUAAAAJ"
