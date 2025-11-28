@@ -59,7 +59,7 @@ author:
   location: "New York City" # Optional
   links: # Optional social media links
     - label: "CV"
-      icon: "fas fa-fw fa-file-pdf"
+      icon: "fas fa-fw fa-briefcase"
       url: "/CV.pdf"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
