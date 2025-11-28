@@ -12,7 +12,7 @@ I have also been an independent researcher at [MLCollective](http://mlcollective
 
 I graduated my Master's in Computer Science at Brown University, supervised by [George Konidaris](https://cs.brown.edu/people/gdk/), [Stefanie Tellex](https://cs.brown.edu/people/stellex/), and [James Tompkin](http://jamestompkin.com/), in May 2020. Previously, I was an undergraduate student at Brown University.
 
-My goal is to research, develop, and create embodied Artificial Intelligence/Machine Learning algorithms and systems. My interests include (but are not limited to) **Reinforcement Learning (RL)**, **Planning/Reasoning/World Modeling**, and **Abstraction/Representation for State/Action/Reward**, with applications to real-world domains such as **Robotics** and **Finance**.
+My goal is to research, develop, and create embodied Artificial Intelligence/Machine Learning algorithms and systems. My interests include (but are not limited to) **Abstraction/Generalization for Reinforcement Learning (RL)**, **Planning/Reasoning/World Modeling**, and **Alignment/Safety/Uncertainty Quantification** with applications to embodied, real-world domains such as **Robotics**.
 
 Check out my [blog](https://medium.com/@thosehippos).
 
