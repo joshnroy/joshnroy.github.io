@@ -60,7 +60,7 @@ author:
   links: # Optional social media links
     - label: "CV"
       icon: "fas fa-fw fa-briefcase"
-      url: "/Josh%20Roy%20CV.pdf"
+      url: "/Josh_Roy_CV.pdf"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=380VVtUAAAAJ"
