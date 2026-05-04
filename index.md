@@ -4,7 +4,9 @@ author_profile: true
 classes: wide
 ---
 
-I am a founding engineer at a [full-stack AI](https://www.ycombinator.com/rfs#full-stack-ai) startup called [Bridger](https://www.bridgergp.com) working on LLM, agentic, and machine learning-enabled automation within professional services including Tax and Accounting.
+I will be starting a PhD in Robotics/AI at [Princeton](https://robotics.princeton.edu/) in Fall 2026, advised by [Tom Silver](https://tomsilver.github.io/).
+
+I am currently a founding engineer at a [full-stack AI](https://www.ycombinator.com/rfs#full-stack-ai) startup called [Bridger](https://www.bridgergp.com) working on LLM, agentic, and machine learning-enabled automation within professional services including Tax and Accounting.
 
 Previously, I have worked as a Machine Learning Engineer on topics ranging from large scale machine learning and model-based planning in systematic trading at [Two Sigma](https://www.twosigma.com/),  deep learning/computer vision, and reinforcemment learning from human feedback (RLHF) at [Cognex](https://www.cognex.com/), and academic research in reinforcement learning and robotics during my internship at [NVIDIA](https://www.nvidia.com/en-us/), undergrad, master's at [Brown University](http://bigai.cs.brown.edu).
 
