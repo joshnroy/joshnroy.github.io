@@ -1,36 +1,34 @@
 source "https://rubygems.org"
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
+
+# Run with: bundle exec jekyll serve
 #
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-gem "jekyll"
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
-gem "minimal-mistakes-jekyll", "~> 4.26.2"
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", group: :jekyll_plugins
-# If you have any plugins, put them here!
+# Note: GitHub Pages builds this site with its own pinned gem set on the server,
+# regardless of what's in this Gemfile. We previously used the `github-pages`
+# meta-gem to mirror those pins locally, but it dragged in transitive deps with
+# unpatched CVEs. This Gemfile pins modern jekyll directly for local dev; the
+# deployed site is unaffected.
 
-gem "jekyll-include-cache"
-
-# csv, bigdecimal, and webrick are no longer default gems in Ruby 3.x —
-# Jekyll 3.x / Liquid 4.0.3 / `jekyll serve` require them
-gem "csv"
-gem "bigdecimal"
-gem "webrick"
-
+gem "jekyll", "~> 3.10"
+gem "minimal-mistakes-jekyll", "~> 4.26"
+gem "kramdown-parser-gfm", "~> 1.1"
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed", "~> 0.17"
+  gem "jekyll-include-cache", "~> 0.2"
+  gem "jekyll-remote-theme", "~> 0.4"
+  gem "jekyll-seo-tag", "~> 2.8"
+  gem "jekyll-sitemap", "~> 1.4"
+  gem "jekyll-paginate", "~> 1.1"
 end
 
-# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
-# and associated library.
+# csv, bigdecimal, base64, and webrick are no longer default gems in Ruby 3.x —
+# Jekyll 3.x / Liquid / safe_yaml / `jekyll serve` still require them.
+gem "csv"
+gem "bigdecimal"
+gem "base64"
+gem "webrick"
+
+# Windows and JRuby don't include zoneinfo files; bundle the tzinfo-data gem.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
   gem "tzinfo-data"
@@ -39,6 +37,5 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
-# Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
-# do not have a Java counterpart.
+# Pin http_parser.rb on JRuby (newer versions lack a Java counterpart).
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]

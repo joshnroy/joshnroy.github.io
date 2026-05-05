@@ -35,6 +35,7 @@ remote_theme: mmistakes/minimal-mistakes@4.26.2
 plugins:
   - jekyll-feed
   - jekyll-include-cache  # This is required for minimal-mistakes
+  - jekyll-remote-theme   # Activates `remote_theme:` (was implicit via github-pages gem)
 
 # Blog settings
 permalink: /blog/:slug/
