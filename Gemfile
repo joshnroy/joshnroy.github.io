@@ -18,6 +18,12 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "jekyll-include-cache"
 
+# csv, bigdecimal, and webrick are no longer default gems in Ruby 3.x —
+# Jekyll 3.x / Liquid 4.0.3 / `jekyll serve` require them
+gem "csv"
+gem "bigdecimal"
+gem "webrick"
+
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
