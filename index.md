@@ -19,6 +19,8 @@ Check out my [blog](https://medium.com/@thosehippos).
 ## News
 
 <dl class="news-list">
+  <dt>September 27, 2026</dt>
+  <dd>Organizing [IROS Workshop on World Models for Robotics](https://worldmodelworkshop.github.io/)</dd>
   <dt>Aug 3, 2026</dt>
   <dd>Starting PhD at Princeton.</dd>
   <dt>April 12, 2026</dt>
