@@ -22,7 +22,7 @@ latest_posts:
   enabled: false
 ---
 
-<b>Contact</b>: [joshnroy@gmail.com](mailto:joshnroy@gmail.com)
+<b>Contact</b>: [josh.roy@princeton.edu](mailto:josh.roy@princeton.edu)
 
 I will be starting a PhD in Robotics/AI at [Princeton](https://robotics.princeton.edu/) in Fall 2026, advised by [Tom Silver](https://tomsilver.github.io/). My research interests include abstraction, safety, and continual learning for reinforcement learning, world modeling, and planning for embodied agents — including but not limited to robots.
 
@@ -34,6 +34,7 @@ I graduated with my M.S. and B.S. with honors in Computer Science at Brown Unive
 
 Check out my [blog on Medium](https://medium.com/@thosehippos).
 
+{% comment %}
 ## awards
 
 - **Two Sigma Internal AI/LLM Hackathon — Best Project**, 2023
@@ -42,5 +43,6 @@ Check out my [blog on Medium](https://medium.com/@thosehippos).
 - **Sigma Xi Scientific Research Honor Society** — Elected 2019
 - **Senior Prize and Academic Honors in Computer Science**, Brown University, 2019
 - **Michael Black Teaching Assistantship Award**, Brown University, 2019
+{% endcomment %}
 
 Outside of Computer Science, I teach [Taekwondo at Columbia](https://www.instagram.com/cutaekwondo/) and climb rocks.
