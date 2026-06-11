@@ -1,6 +1,12 @@
 _site
-.sass-cache
+.claude/
+.bundle
+.DS_Store
+.idea
 .jekyll-cache
 .jekyll-metadata
+.ruby-version
+.sass-cache
+assets/libs/
+node_modules/
 vendor
-*.DS_Store

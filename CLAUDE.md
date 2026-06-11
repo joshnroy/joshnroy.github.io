@@ -4,26 +4,36 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Josh Roy's personal portfolio site. Jekyll + GitHub Pages, deployed automatically from `master` to https://joshnroy.github.io. Uses the Minimal Mistakes theme (v4.26.2) via `remote_theme` — the theme is not vendored, so layouts/includes/SCSS partials are pulled from `mmistakes/minimal-mistakes` at build time and aren't browseable in this repo.
+Josh Roy's personal academic site. Jekyll + the [al-folio](https://github.com/alshedivat/al-folio) theme, deployed to https://joshnroy.github.io. al-folio is **gem-based**: the theme runtime (`theme: al_folio_core` in `_config.yml`) plus a family of `al_*`/`al_folio_*` gems ship the layouts, includes, SCSS/Tailwind, and Liquid plugins (see `Gemfile`). None of that is vendored in this repo — this repo holds only configuration, content, and media. To inspect a theme layout/include, look under `vendor/bundle/ruby/*/gems/al_folio_core-*/`.
 
 ## Development Commands
 
+Requires **Ruby 3.x+** (e.g. `brew install ruby`) and **ImageMagick** (`brew install imagemagick`, used to generate responsive images). The system Ruby (2.6) is too old.
+
 ```bash
-bundle install                  # install dependencies
-bundle exec jekyll serve        # local server at http://localhost:4000 (auto-rebuilds on file change)
-bundle exec jekyll build        # one-shot build into _site/
-bundle update github-pages      # update to track GitHub Pages' current gem versions
+bundle install                                   # install theme gems (first run compiles native extensions)
+LANG=en_US.UTF-8 bundle exec jekyll serve        # local server at http://localhost:4000 (auto-rebuilds)
+LANG=en_US.UTF-8 bundle exec jekyll build        # one-shot build into _site/
 ```
 
-`_config.yml` changes are NOT picked up by `jekyll serve`'s auto-reload — restart the server.
+`LANG`/`LC_ALL` **must** be a UTF-8 locale, or the build dies with `invalid byte sequence in US-ASCII` when al-folio scans the UTF-8 Markdown. Set it in your shell profile to avoid prefixing every command. `_config.yml` changes are not picked up by `jekyll serve`'s auto-reload — restart the server. Node is **not** needed for local development (the CI-only purgecss optimization is the only thing that uses it).
 
 ## Architecture
 
-- **Top-level pages** (rendered from root): `index.md` (homepage bio + publications), `papers.md` (annotated bibliography index), `blog.md` (meta-refresh redirect to medium.com/@thosehippos — there is no on-site blog), `404.html`. There is no `cv.md`; the CV is the static `Josh_Roy_CV.pdf` at the root, linked from `_config.yml`'s `author.links`.
-- **Papers collection**: `_papers/*.md` is a Jekyll collection (configured in `_config.yml` under `collections.papers`) with permalink `/papers/:slug/`. `papers.md` iterates `site.papers` and renders each entry's frontmatter. To add a paper annotation, create a new file in `_papers/` matching the existing frontmatter shape (`title`, `authors`, `venue`, `paper_date`, `date`, `paper_url`, `categories`, `tags`, `excerpt`) — the homepage and `papers.md` will not auto-update; the publications list on `index.md` is hand-maintained separately.
-- **Author profile sidebar** (avatar, location, social links) lives in `_config.yml` under `author:`, not in any page's frontmatter. Pages opt in via `author_profile: true`.
-- **Styling**: `assets/css/main.scss` is the only custom stylesheet; theme styles are imported by Minimal Mistakes' default skin. No custom layouts or includes — all layouts come from the remote theme.
-- **Analytics**: GA4 tracking ID `G-FSLWBL641C` is wired in via `_config.yml`'s `analytics` block (the theme reads it).
+Everything a human edits is Markdown/YAML:
+
+- **Homepage / bio**: `_pages/about.md` (`layout: about`, `permalink: /`). Body holds the bio and the **Awards** section. Frontmatter controls the profile photo (`profile.image`), the under-photo `more_info`, and the toggles for selected papers, social icons, and the news list.
+- **Publications**: `_bibliography/papers.bib` — a single BibTeX file; jekyll-scholar renders `_pages/publications.md` automatically and the `selected={true}` entries on the homepage. Add a paper by appending a BibTeX entry. Useful fields: `abbr` (venue badge), `abstract`, `selected`, `award`/`award_name`, `arxiv`/`pdf`/`url`. Author names matching `scholar.last_name`/`first_name` in `_config.yml` are auto-bolded.
+- **News**: one Markdown file per item in `_news/` (`layout: post`, `inline: true`). They render on the homepage and `/news/`, newest first.
+- **CV**: the PDF lives at `assets/pdf/Josh_Roy_CV.pdf`. `_pages/cv.md` embeds it and offers a download link; `_data/socials.yml`'s `cv_pdf` points the sidebar icon at the same file. (The al-folio structured-CV renderer is intentionally not used.)
+- **Blog**: `_pages/blog.md` is a redirect (`redirect:` frontmatter) to https://medium.com/@thosehippos — there is no on-site blog.
+- **Social links + CV path**: `_data/socials.yml` (email, Google Scholar, LinkedIn, GitHub, X, RSS, CV PDF).
+- **Site-wide settings**: `_config.yml` — identity (`first_name`/`last_name`), `url`/`baseurl` (root site, so `baseurl: ""`), `scholar` author names, `analytics.google` (GA4 `G-FSLWBL641C`), and the theme/plugin wiring. Leave the `al_folio`, `scholar`, `sass`, and `plugins` blocks alone unless you know what they do.
+- **Nav order**: each page's `nav_order` frontmatter sets navbar position (publications → cv → blog).
+
+## Deployment
+
+Deploys via **GitHub Actions**, not GitHub Pages' built-in build. `.github/workflows/deploy.yml` builds the site on push to `master` and publishes `_site/` to the **`gh-pages`** branch. One-time setup: in the repo **Settings → Pages**, set the source to the `gh-pages` branch. (This differs from the old Minimal Mistakes setup, which built directly from `master`.)
 
 ## Git Commit Guidelines
 
