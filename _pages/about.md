@@ -32,7 +32,7 @@ Previously, I worked as a Machine Learning Engineer on topics ranging from large
 
 I graduated with my M.S. and B.S. with honors in Computer Science at Brown University, supervised by [George Konidaris](https://cs.brown.edu/people/gdk/), [Stefanie Tellex](https://cs.brown.edu/people/stellex/), and [James Tompkin](http://jamestompkin.com/), in May 2020.
 
-Check out my [blog on Medium](https://medium.com/@thosehippos).
+Check out my [blog on Medium](/blog/).
 
 {% comment %}
 ## awards
