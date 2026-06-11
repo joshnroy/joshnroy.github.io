@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>New York City</p>
-    <p><a href="mailto:joshnroy@gmail.com">joshnroy@gmail.com</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -24,6 +23,8 @@ latest_posts:
   enabled: false
 ---
 
+<b>Contact</b>: [joshnroy@gmail.com](mailto:joshnroy@gmail.com)
+
 I will be starting a PhD in Robotics/AI at [Princeton](https://robotics.princeton.edu/) in Fall 2026, advised by [Tom Silver](https://tomsilver.github.io/). My research interests include abstraction, safety, and continual learning for reinforcement learning, world modeling, and planning for embodied agents — including but not limited to robots.
 
 I am currently a founding engineer at a [full-stack AI](https://www.ycombinator.com/rfs#full-stack-ai) startup called [Bridger](https://www.bridgergp.com), working on LLM, agentic, and machine-learning-enabled automation within professional services including Tax and Accounting.
@@ -34,7 +35,7 @@ I graduated with my M.S. and B.S. with honors in Computer Science at Brown Unive
 
 Check out my [blog on Medium](https://medium.com/@thosehippos).
 
-## Awards
+## awards
 
 - **Two Sigma Internal AI/LLM Hackathon — Best Project**, 2023
 - [**National Science Foundation Graduate Research Fellowship (NSF GRFP)**](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program) — Honorable Mention, 2020 (wrote about Uncertainty Quantification)
