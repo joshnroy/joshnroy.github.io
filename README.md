@@ -1,85 +1,68 @@
-# Josh Roy's Personal Portfolio
+# Josh Roy's Personal Website
 
-This is the source code for my personal portfolio website, built with Jekyll and hosted on GitHub Pages at [joshnroy.github.io](https://joshnroy.github.io).
+Source for my personal academic site at [joshnroy.github.io](https://joshnroy.github.io), built with Jekyll and the [al-folio](https://github.com/alshedivat/al-folio) theme.
 
-## 🚀 Quick Start
+## Local development
 
-### Prerequisites
+Requires **Ruby 3.x or newer** and **ImageMagick**:
 
-- Ruby (version 2.5 or higher)
-- Bundler gem (`gem install bundler`)
-
-### Local Development
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/joshnroy/joshnroy.github.io.git
-   cd joshnroy.github.io
-   ```
-
-2. Install dependencies:
-   ```bash
-   bundle install
-   ```
-
-3. Run the development server:
-   ```bash
-   bundle exec jekyll serve
-   ```
-
-4. Open your browser and navigate to `http://localhost:4000`
-
-## 📁 Repository Organization
-
-```
-joshnroy.github.io/
-├── _config.yml          # Jekyll configuration and site metadata
-├── index.md             # Homepage content
-├── cv.md                # CV/Resume page
-├── 404.html             # Custom 404 error page
-├── assets/              # Static assets
-│   ├── css/            # Custom styles
-│   └── images/         # Images (profile photo, etc.)
-├── Gemfile             # Ruby dependencies
-└── Gemfile.lock        # Locked dependency versions
+```bash
+brew install ruby imagemagick      # if you don't already have them
+bundle install                     # first run compiles native gems (a few minutes)
+LANG=en_US.UTF-8 bundle exec jekyll serve
 ```
 
-## 🎨 Theme
+Then open <http://localhost:4000>. The `LANG=en_US.UTF-8` (any UTF-8 locale) is required — without it the build fails with `invalid byte sequence in US-ASCII`. Add `export LANG=en_US.UTF-8` to your shell profile so you don't have to type it each time.
 
-This site uses the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme (v4.26.2) via remote theme functionality.
+> al-folio is a **gem-based** theme: its layouts, includes, and styles live in the `al_folio_*` gems (see `Gemfile`), not in this repo. This repo only contains content, config, and media.
 
-## ✏️ Making Changes
+## Editing content (all Markdown / YAML)
 
-### Updating Content
+| What | Where |
+| --- | --- |
+| Bio + Awards (homepage) | `_pages/about.md` |
+| Publications | `_bibliography/papers.bib` (one BibTeX entry per paper; `selected={true}` features it on the homepage) |
+| News items | `_news/*.md` (one short file per item) |
+| Social links + CV path | `_data/socials.yml` |
+| CV PDF | `assets/pdf/Josh_Roy_CV.pdf` |
+| Profile photo | `assets/img/prof_pic.jpg` |
+| Blog link (→ Medium) | `_pages/blog.md` |
+| Site settings (title, URL, analytics, scholar name) | `_config.yml` (restart `jekyll serve` after changing) |
 
-- **Homepage**: Edit `index.md`
-- **CV/Resume**: Edit `cv.md`
-- **Site settings**: Edit `_config.yml` (requires server restart)
-- **Profile photo**: Replace `/assets/images/profile.jpeg`
+### Add a publication
 
-### Adding New Pages
+Append an entry to `_bibliography/papers.bib`, e.g.:
 
-1. Create a new `.md` file in the root directory
-2. Add front matter at the top:
-   ```yaml
-   ---
-   layout: single
-   title: "Your Page Title"
-   permalink: /your-page-url/
-   ---
-   ```
-3. Add your content below in Markdown format
+```bibtex
+@inproceedings{yourkey2026,
+  abbr={NeurIPS},
+  title={Your Paper Title},
+  author={Roy, Josh and Coauthor, Jane},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2026},
+  arxiv={2601.01234},
+  abstract={One-paragraph summary.},
+  selected={true}
+}
+```
 
-### Styling
+### Add a news item
 
-Custom CSS can be added to `/assets/css/main.scss`. The theme's default styles will be automatically included.
+Create `_news/2026-12-01-something.md`:
 
-## 🚢 Deployment
+```markdown
+---
+layout: post
+date: 2026-12-01 09:00:00-0400
+inline: true
+related_posts: false
+---
 
-The site automatically deploys to GitHub Pages when changes are pushed to the `master` branch. No manual deployment steps are required.
+Short announcement with a [link](https://example.com).
+```
 
-## 📝 Notes
+## Deployment
 
-- Changes to `_config.yml` require restarting the Jekyll server
-- The site is configured for the custom domain joshnroy.github.io
-- GitHub Pages handles the Jekyll build process automatically
+Pushing to `master` triggers `.github/workflows/deploy.yml`, which builds the site and publishes it to the **`gh-pages`** branch via GitHub Actions.
+
+**One-time setup:** in the repo's **Settings → Pages**, set the source to the `gh-pages` branch. (Unlike the previous Minimal Mistakes setup, GitHub Pages no longer builds directly from `master`.)

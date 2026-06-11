@@ -1,0 +1,9 @@
+# Social media links and usernames, displayed as icons in the order defined here.
+# See the jekyll-socials plugin docs: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/Josh_Roy_CV.pdf # path to the CV PDF (also used by the CV page)
+email: joshnroy@gmail.com
+scholar_userid: 380VVtUAAAAJ # Google Scholar ID
+linkedin_username: josh-roy-037997104
+github_username: joshnroy
+x_username: thosehippos # X / Twitter handle
+rss_icon: true # set to false to hide the RSS icon

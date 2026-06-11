@@ -1,41 +1,60 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-# Run with: bundle exec jekyll serve
-#
-# Note: GitHub Pages builds this site with its own pinned gem set on the server,
-# regardless of what's in this Gemfile. We previously used the `github-pages`
-# meta-gem to mirror those pins locally, but it dragged in transitive deps with
-# unpatched CVEs. This Gemfile pins modern jekyll directly for local dev; the
-# deployed site is unaffected.
+gem 'jekyll'
 
-gem "jekyll", "~> 3.10"
-gem "minimal-mistakes-jekyll", "~> 4.26"
-gem "kramdown-parser-gfm", "~> 1.1"
-
+# Core plugins that directly affect site building
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.17"
-  gem "jekyll-include-cache", "~> 0.2"
-  gem "jekyll-remote-theme", "~> 0.4"
-  gem "jekyll-seo-tag", "~> 2.8"
-  gem "jekyll-sitemap", "~> 1.4"
-  gem "jekyll-paginate", "~> 1.1"
+    gem 'jekyll-3rd-party-libraries'
+    gem 'jekyll-archives-v2'
+    gem 'jekyll-cache-bust'
+    gem 'jekyll-email-protect'
+    gem 'jekyll-feed'
+    gem 'jekyll-get-json'
+    gem 'jekyll-imagemagick'
+    gem 'jekyll-jupyter-notebook'
+    gem 'jekyll-link-attributes'
+    gem 'jekyll-minifier'
+    gem 'jekyll-paginate-v2'
+    gem 'jekyll-regex-replace'
+    gem 'jekyll-scholar'
+    gem 'jekyll-sitemap'
+    gem 'jekyll-socials'
+    gem 'jekyll-tabs'
+    gem 'jekyll-terser', :git => "https://github.com/RobertoJBeltran/jekyll-terser.git"
+    gem 'jekyll-toc'
+    gem 'jekyll-twitter-plugin'
+    gem 'jemoji'
+
+    gem 'classifier-reborn'  # used for content categorization during the build
 end
 
-# csv, bigdecimal, base64, and webrick are no longer default gems in Ruby 3.x —
-# Jekyll 3.x / Liquid / safe_yaml / `jekyll serve` still require them.
-gem "csv"
-gem "bigdecimal"
-gem "base64"
-gem "webrick"
-
-# Windows and JRuby don't include zoneinfo files; bundle the tzinfo-data gem.
-platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo", ">= 1", "< 3"
-  gem "tzinfo-data"
+# Gems for development or external data fetching (outside :jekyll_plugins)
+group :other_plugins do
+    gem 'css_parser'
+    gem 'observer'       # used by jekyll-scholar
+    gem 'ostruct'        # used by jekyll-twitter-plugin
+    # gem 'terser'         # used by jekyll-terser
+    # gem 'unicode_utils' -- should be already installed by jekyll
+    # gem 'webrick' -- should be already installed by jekyll
 end
 
-# Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
+# Gems for al-folio plugins
+group :al_folio_plugins do
+    gem 'al_folio_core', '= 1.0.11'
+    gem 'al_icons', '= 1.0.0'
+    gem 'al_folio_cv', '= 1.0.0'
+    gem 'al_folio_distill', '= 1.0.2'
+    gem 'al_folio_upgrade', '= 1.0.3'
+    gem 'al_folio_bootstrap_compat', '= 1.0.0'
+    gem 'al_cookie', '= 1.0.0'
 
-# Pin http_parser.rb on JRuby (newer versions lack a Java counterpart).
-gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
+    gem 'al_analytics', '= 1.0.0'
+    gem 'al_citations', '= 1.0.1'
+    gem 'al_ext_posts', '= 1.0.1'
+    gem 'al_img_tools', '= 1.0.2'
+    gem 'al_search', '= 1.0.2'
+    gem 'al_charts', '= 1.0.1'
+    gem 'al_math', '= 1.0.1'
+    gem 'al_comments', '= 1.0.0'
+    gem 'al_newsletter', '= 1.0.0'
+end
